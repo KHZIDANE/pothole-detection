@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+dataset/
+runs/
+*.onnx
+data_resolved.yaml
+.DS_Store
+demo_out/
+
+# Large model and demo artifacts are kept outside the code-only repository.
+weights/best.pt
+demo.mp4
+docs/demo.gif

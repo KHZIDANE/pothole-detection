@@ -1,0 +1,9 @@
+# torch and torchvision are already in your venv; do not reinstall them.
+ultralytics
+opencv-python
+matplotlib
+pyyaml
+pandas
+gradio
+onnx
+onnxruntime

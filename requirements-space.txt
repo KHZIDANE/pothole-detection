@@ -1,0 +1,4 @@
+# Copy this file into your Hugging Face Space and rename it to requirements.txt
+ultralytics
+opencv-python-headless
+gradio
